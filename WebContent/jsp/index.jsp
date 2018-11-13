@@ -7,6 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
+<<<<<<< HEAD
 <div>my first jsp5</div>
+=======
+<div>my first jsp4</div>
+>>>>>>> refs/heads/dev
 </body>
 </html>
